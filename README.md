@@ -38,3 +38,19 @@ python 学习
 
 
 ---------------------------
+
+
+# [数据类型转换](typeChange)
+
+- [x] [隐式类型转换](typeChange/hideChange/hideChangeTest.py)
+- [x] [显式类型转换](typeChange/showChange/showChangeTest.py)
+
+
+
+---------------------------
+
+
+
+
+
+
