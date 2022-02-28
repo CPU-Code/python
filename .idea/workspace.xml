@@ -19,9 +19,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2f0c9ed6-b676-4835-b4d4-9bc2062f9655" name="Default Changelist" comment="基本数据类型">
-      <change afterPath="$PROJECT_DIR$/typeChange/hideChange/hideChangeTest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/typeChange/showChange/showChangeTest.py" afterDir="false" />
+    <list default="true" id="2f0c9ed6-b676-4835-b4d4-9bc2062f9655" name="Default Changelist" comment="显式类型转换">
+      <change afterPath="$PROJECT_DIR$/derivation/dictDerivation/dictDerivationTest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/derivation/listDerivation/listDerivationTest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/derivation/setDerivation/setDerivationTest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/derivation/tupleDerivation/tupleDerivationTest.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -65,8 +67,8 @@
       <recent name="D:\Data\github\python" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.showChangeTest">
-    <configuration name="PrintTest" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.tupleDerivationTest">
+    <configuration name="dictDerivationTest" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -74,12 +76,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/first/base/printTest" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/derivation/dictDerivation" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/first/base/printTest/PrintTest.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/derivation/dictDerivation/dictDerivationTest.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -88,7 +90,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="dictionaryTest" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="listDerivationTest" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -96,34 +98,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/type/dictionary" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/derivation/listDerivation" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/type/dictionary/dictionaryTest.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="hideChangeTest" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/typeChange/hideChange" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/typeChange/hideChange/hideChangeTest.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/derivation/listDerivation/listDerivationTest.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -154,7 +134,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="setTest" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="setDerivationTest" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -162,12 +142,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/type/set" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/derivation/setDerivation" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/type/set/setTest.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/derivation/setDerivation/setDerivationTest.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -198,13 +178,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="tupleDerivationTest" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/derivation/tupleDerivation" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/derivation/tupleDerivation/tupleDerivationTest.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.tupleDerivationTest" />
+        <item itemvalue="Python.setDerivationTest" />
+        <item itemvalue="Python.dictDerivationTest" />
+        <item itemvalue="Python.listDerivationTest" />
         <item itemvalue="Python.showChangeTest" />
-        <item itemvalue="Python.hideChangeTest" />
-        <item itemvalue="Python.PrintTest" />
-        <item itemvalue="Python.dictionaryTest" />
-        <item itemvalue="Python.setTest" />
       </list>
     </recent_temporary>
   </component>
@@ -218,7 +220,7 @@
       <updated>1645760208209</updated>
       <workItem from="1645760217363" duration="13041000" />
       <workItem from="1646009203267" duration="8997000" />
-      <workItem from="1646026566058" duration="1318000" />
+      <workItem from="1646026566058" duration="4636000" />
     </task>
     <task id="LOCAL-00001" summary="环境">
       <created>1646027100787</created>
@@ -241,7 +243,21 @@
       <option name="project" value="LOCAL" />
       <updated>1646027145376</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="隐式类型转换">
+      <created>1646028124927</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1646028124927</updated>
+    </task>
+    <task id="LOCAL-00005" summary="显式类型转换">
+      <created>1646028130144</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1646028130144</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -273,29 +289,31 @@
     <MESSAGE value="环境" />
     <MESSAGE value="第一程序" />
     <MESSAGE value="基本数据类型" />
-    <option name="LAST_COMMIT_MESSAGE" value="基本数据类型" />
+    <MESSAGE value="隐式类型转换" />
+    <MESSAGE value="显式类型转换" />
+    <option name="LAST_COMMIT_MESSAGE" value="显式类型转换" />
   </component>
   <component name="WindowStateProjectService">
     <state x="588" y="173" key="FileChooserDialogImpl" timestamp="1646018840568">
       <screen x="78" y="0" width="1458" height="864" />
     </state>
     <state x="588" y="173" key="FileChooserDialogImpl/78.0.1458.864@78.0.1458.864" timestamp="1646018840568" />
-    <state width="1415" height="246" key="GridCell.Tab.0.bottom" timestamp="1646027879097">
+    <state width="1415" height="220" key="GridCell.Tab.0.bottom" timestamp="1646030030822">
       <screen x="78" y="0" width="1458" height="864" />
     </state>
-    <state width="1415" height="246" key="GridCell.Tab.0.bottom/78.0.1458.864@78.0.1458.864" timestamp="1646027879097" />
-    <state width="1415" height="246" key="GridCell.Tab.0.center" timestamp="1646027879097">
+    <state width="1415" height="220" key="GridCell.Tab.0.bottom/78.0.1458.864@78.0.1458.864" timestamp="1646030030822" />
+    <state width="1415" height="220" key="GridCell.Tab.0.center" timestamp="1646030030822">
       <screen x="78" y="0" width="1458" height="864" />
     </state>
-    <state width="1415" height="246" key="GridCell.Tab.0.center/78.0.1458.864@78.0.1458.864" timestamp="1646027879097" />
-    <state width="1415" height="246" key="GridCell.Tab.0.left" timestamp="1646027879097">
+    <state width="1415" height="220" key="GridCell.Tab.0.center/78.0.1458.864@78.0.1458.864" timestamp="1646030030822" />
+    <state width="1415" height="220" key="GridCell.Tab.0.left" timestamp="1646030030822">
       <screen x="78" y="0" width="1458" height="864" />
     </state>
-    <state width="1415" height="246" key="GridCell.Tab.0.left/78.0.1458.864@78.0.1458.864" timestamp="1646027879097" />
-    <state width="1415" height="246" key="GridCell.Tab.0.right" timestamp="1646027879097">
+    <state width="1415" height="220" key="GridCell.Tab.0.left/78.0.1458.864@78.0.1458.864" timestamp="1646030030822" />
+    <state width="1415" height="220" key="GridCell.Tab.0.right" timestamp="1646030030822">
       <screen x="78" y="0" width="1458" height="864" />
     </state>
-    <state width="1415" height="246" key="GridCell.Tab.0.right/78.0.1458.864@78.0.1458.864" timestamp="1646027879097" />
+    <state width="1415" height="220" key="GridCell.Tab.0.right/78.0.1458.864@78.0.1458.864" timestamp="1646030030822" />
     <state width="1415" height="277" key="GridCell.Tab.1.bottom" timestamp="1646016953160">
       <screen x="78" y="0" width="1458" height="864" />
     </state>
@@ -337,11 +355,14 @@
     <SUITE FILE_PATH="coverage/python$setTest.coverage" NAME="setTest Coverage Results" MODIFIED="1646017020242" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/type/set" />
     <SUITE FILE_PATH="coverage/python$InputTest.coverage" NAME="InputTest Coverage Results" MODIFIED="1645773446850" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/first/input" />
     <SUITE FILE_PATH="coverage/python$ImpSysTest.coverage" NAME="ImpSysTest Coverage Results" MODIFIED="1645773834532" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/first/impSys" />
-    <SUITE FILE_PATH="coverage/python$showChangeTest.coverage" NAME="showChangeTest Coverage Results" MODIFIED="1646027879089" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/typeChange/showChange" />
+    <SUITE FILE_PATH="coverage/python$showChangeTest.coverage" NAME="showChangeTest Coverage Results" MODIFIED="1646028192685" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/typeChange/showChange" />
+    <SUITE FILE_PATH="coverage/python$tupleDerivationTest.coverage" NAME="tupleDerivationTest Coverage Results" MODIFIED="1646030030816" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/derivation/tupleDerivation" />
     <SUITE FILE_PATH="coverage/python$printTest.coverage" NAME="printTest Coverage Results" MODIFIED="1645772807070" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/first/print" />
+    <SUITE FILE_PATH="coverage/python$setDerivationTest.coverage" NAME="setDerivationTest Coverage Results" MODIFIED="1646030001723" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/derivation/setDerivation" />
     <SUITE FILE_PATH="coverage/python$LineTest.coverage" NAME="LineTest Coverage Results" MODIFIED="1645768915162" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/first/line" />
+    <SUITE FILE_PATH="coverage/python$listDerivationTest.coverage" NAME="listDerivationTest Coverage Results" MODIFIED="1646029955448" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/derivation/listDerivation" />
     <SUITE FILE_PATH="coverage/python$tupleTest.coverage" NAME="tupleTest Coverage Results" MODIFIED="1646015530116" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/type/tuple" />
-    <SUITE FILE_PATH="coverage/python$hideChangeTest.coverage" NAME="hideChangeTest Coverage Results" MODIFIED="1646027524496" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/typeChange/hideChange" />
+    <SUITE FILE_PATH="coverage/python$hideChangeTest.coverage" NAME="hideChangeTest Coverage Results" MODIFIED="1646028159975" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/typeChange/hideChange" />
     <SUITE FILE_PATH="coverage/python$LineToLineTest__1_.coverage" NAME="LineToLineTest (1) Coverage Results" MODIFIED="1645772723777" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/first/lineToLine" />
     <SUITE FILE_PATH="coverage/python$trueFalseTest.coverage" NAME="trueFalseTest Coverage Results" MODIFIED="1646011123281" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/type/trueFalse" />
     <SUITE FILE_PATH="coverage/python$stringIndexTest.coverage" NAME="stringIndexTest Coverage Results" MODIFIED="1646013040490" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/type/stringIndex" />
@@ -350,6 +371,7 @@
     <SUITE FILE_PATH="coverage/python$StringTest.coverage" NAME="StringTest Coverage Results" MODIFIED="1645770965667" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/first/string" />
     <SUITE FILE_PATH="coverage/python$ManyEnvTest.coverage" NAME="ManyEnvTest Coverage Results" MODIFIED="1645777627623" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/type/manyEnv" />
     <SUITE FILE_PATH="coverage/python$dictionaryTest.coverage" NAME="dictionaryTest Coverage Results" MODIFIED="1646018351418" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/type/dictionary" />
+    <SUITE FILE_PATH="coverage/python$dictDerivationTest.coverage" NAME="dictDerivationTest Coverage Results" MODIFIED="1646029983420" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/derivation/dictDerivation" />
     <SUITE FILE_PATH="coverage/python$LineTest__1_.coverage" NAME="LineTest (1) Coverage Results" MODIFIED="1645772705787" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/first/lineToLine" />
     <SUITE FILE_PATH="coverage/python$numComputeTest.coverage" NAME="numComputeTest Coverage Results" MODIFIED="1646011136613" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/type/numCompute" />
     <SUITE FILE_PATH="coverage/python$PrintTest.coverage" NAME="PrintTest Coverage Results" MODIFIED="1646026585184" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/first/base/printTest" />

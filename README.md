@@ -46,11 +46,21 @@ python 学习
 - [x] [显式类型转换](typeChange/showChange/showChangeTest.py)
 
 
+---------------------------
+
+# [推导式](derivation)
+
+- [x] [列表推导式](derivation/listDerivation/listDerivationTest.py)
+- [x] [字典推导式](derivation/dictDerivation/dictDerivationTest.py)
+- [x] [集合推导式](derivation/setDerivation/setDerivationTest.py)
+- [x] [元组推导式](derivation/tupleDerivation/tupleDerivationTest.py)
 
 ---------------------------
 
 
+# [运算符](compute)
 
 
+---------------------------
 
 
