@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2f0c9ed6-b676-4835-b4d4-9bc2062f9655" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="f7dee968-c08b-4eb0-aaa4-b71860515111" />
+  <component name="ProjectId" id="25aLN9NQ4H6HIN2H6Zr1aRygiJh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Data\github\python" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.dictionaryTest">
+    <configuration name="dictionaryTest" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/type/dictionary" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/type/dictionary/dictionaryTest.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="listTest" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/type/list" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/type/list/listTest.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="reverseTest" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/type/reverseList" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/type/reverseList/reverseTest.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="setTest" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/type/set" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/type/set/setTest.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tupleTest" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/type/tuple" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/type/tuple/tupleTest.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.dictionaryTest" />
+        <item itemvalue="Python.setTest" />
+        <item itemvalue="Python.tupleTest" />
+        <item itemvalue="Python.reverseTest" />
+        <item itemvalue="Python.listTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2f0c9ed6-b676-4835-b4d4-9bc2062f9655" name="Default Changelist" comment="" />
+      <created>1645760208209</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1645760208209</updated>
+      <workItem from="1645760217363" duration="13041000" />
+      <workItem from="1646009203267" duration="10496000" />
+      <workItem from="1646020606506" duration="622000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="588" y="173" key="FileChooserDialogImpl" timestamp="1646020275373">
+      <screen x="78" y="0" width="1458" height="864" />
+    </state>
+    <state x="588" y="173" key="FileChooserDialogImpl/78.0.1458.864@78.0.1458.864" timestamp="1646020275373" />
+    <state x="618" y="333" key="Github.CreateGistDialog" timestamp="1646020328145">
+      <screen x="78" y="0" width="1458" height="864" />
+    </state>
+    <state x="618" y="333" key="Github.CreateGistDialog/78.0.1458.864@78.0.1458.864" timestamp="1646020328145" />
+    <state width="1415" height="277" key="GridCell.Tab.0.bottom" timestamp="1646020599266">
+      <screen x="78" y="0" width="1458" height="864" />
+    </state>
+    <state width="1415" height="277" key="GridCell.Tab.0.bottom/78.0.1458.864@78.0.1458.864" timestamp="1646020599266" />
+    <state width="1415" height="277" key="GridCell.Tab.0.center" timestamp="1646020599266">
+      <screen x="78" y="0" width="1458" height="864" />
+    </state>
+    <state width="1415" height="277" key="GridCell.Tab.0.center/78.0.1458.864@78.0.1458.864" timestamp="1646020599266" />
+    <state width="1415" height="277" key="GridCell.Tab.0.left" timestamp="1646020599265">
+      <screen x="78" y="0" width="1458" height="864" />
+    </state>
+    <state width="1415" height="277" key="GridCell.Tab.0.left/78.0.1458.864@78.0.1458.864" timestamp="1646020599265" />
+    <state width="1415" height="277" key="GridCell.Tab.0.right" timestamp="1646020599266">
+      <screen x="78" y="0" width="1458" height="864" />
+    </state>
+    <state width="1415" height="277" key="GridCell.Tab.0.right/78.0.1458.864@78.0.1458.864" timestamp="1646020599266" />
+    <state width="1415" height="277" key="GridCell.Tab.1.bottom" timestamp="1646020599267">
+      <screen x="78" y="0" width="1458" height="864" />
+    </state>
+    <state width="1415" height="277" key="GridCell.Tab.1.bottom/78.0.1458.864@78.0.1458.864" timestamp="1646020599267" />
+    <state width="1415" height="277" key="GridCell.Tab.1.center" timestamp="1646020599267">
+      <screen x="78" y="0" width="1458" height="864" />
+    </state>
+    <state width="1415" height="277" key="GridCell.Tab.1.center/78.0.1458.864@78.0.1458.864" timestamp="1646020599267" />
+    <state width="1415" height="277" key="GridCell.Tab.1.left" timestamp="1646020599266">
+      <screen x="78" y="0" width="1458" height="864" />
+    </state>
+    <state width="1415" height="277" key="GridCell.Tab.1.left/78.0.1458.864@78.0.1458.864" timestamp="1646020599266" />
+    <state width="1415" height="277" key="GridCell.Tab.1.right" timestamp="1646020599267">
+      <screen x="78" y="0" width="1458" height="864" />
+    </state>
+    <state width="1415" height="277" key="GridCell.Tab.1.right/78.0.1458.864@78.0.1458.864" timestamp="1646020599267" />
+    <state x="309" y="77" key="SettingsEditor" timestamp="1646020285708">
+      <screen x="78" y="0" width="1458" height="864" />
+    </state>
+    <state x="309" y="77" key="SettingsEditor/78.0.1458.864@78.0.1458.864" timestamp="1646020285708" />
+    <state x="171" y="93" width="1272" height="678" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1646020599331">
+      <screen x="78" y="0" width="1458" height="864" />
+    </state>
+    <state x="171" y="93" width="1272" height="678" key="com.intellij.history.integration.ui.views.FileHistoryDialog/78.0.1458.864@78.0.1458.864" timestamp="1646020599331" />
+    <state x="470" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1646009433749">
+      <screen x="78" y="0" width="1458" height="864" />
+    </state>
+    <state x="470" y="181" width="672" height="678" key="search.everywhere.popup/78.0.1458.864@78.0.1458.864" timestamp="1646009433749" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/python$NumLineTest.coverage" NAME="NumLineTest Coverage Results" MODIFIED="1645773364800" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/first/numLine" />
+    <SUITE FILE_PATH="coverage/python$importTest.coverage" NAME="importTest Coverage Results" MODIFIED="1645773677149" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/first/import" />
+    <SUITE FILE_PATH="coverage/python$stringTest.coverage" NAME="stringTest Coverage Results" MODIFIED="1646013002504" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/type/string" />
+    <SUITE FILE_PATH="coverage/python$DataTypeTest.coverage" NAME="DataTypeTest Coverage Results" MODIFIED="1645777787635" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/type/dataType" />
+    <SUITE FILE_PATH="coverage/python$setTest.coverage" NAME="setTest Coverage Results" MODIFIED="1646017020242" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/type/set" />
+    <SUITE FILE_PATH="coverage/python$InputTest.coverage" NAME="InputTest Coverage Results" MODIFIED="1645773446850" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/first/input" />
+    <SUITE FILE_PATH="coverage/python$ImpSysTest.coverage" NAME="ImpSysTest Coverage Results" MODIFIED="1645773834532" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/first/impSys" />
+    <SUITE FILE_PATH="coverage/python$printTest.coverage" NAME="printTest Coverage Results" MODIFIED="1645772807070" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/first/print" />
+    <SUITE FILE_PATH="coverage/python$LineTest.coverage" NAME="LineTest Coverage Results" MODIFIED="1645768915162" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/first/line" />
+    <SUITE FILE_PATH="coverage/python$tupleTest.coverage" NAME="tupleTest Coverage Results" MODIFIED="1646015530116" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/type/tuple" />
+    <SUITE FILE_PATH="coverage/python$LineToLineTest__1_.coverage" NAME="LineToLineTest (1) Coverage Results" MODIFIED="1645772723777" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/first/lineToLine" />
+    <SUITE FILE_PATH="coverage/python$trueFalseTest.coverage" NAME="trueFalseTest Coverage Results" MODIFIED="1646011123281" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/type/trueFalse" />
+    <SUITE FILE_PATH="coverage/python$stringIndexTest.coverage" NAME="stringIndexTest Coverage Results" MODIFIED="1646013040490" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/type/stringIndex" />
+    <SUITE FILE_PATH="coverage/python$KeyWordTest.coverage" NAME="KeyWordTest Coverage Results" MODIFIED="1645768037236" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/first/key/word" />
+    <SUITE FILE_PATH="coverage/python$listTest.coverage" NAME="listTest Coverage Results" MODIFIED="1646014732110" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/type/list" />
+    <SUITE FILE_PATH="coverage/python$StringTest.coverage" NAME="StringTest Coverage Results" MODIFIED="1645770965667" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/first/string" />
+    <SUITE FILE_PATH="coverage/python$ManyEnvTest.coverage" NAME="ManyEnvTest Coverage Results" MODIFIED="1645777627623" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/type/manyEnv" />
+    <SUITE FILE_PATH="coverage/python$dictionaryTest.coverage" NAME="dictionaryTest Coverage Results" MODIFIED="1646018351418" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/type/dictionary" />
+    <SUITE FILE_PATH="coverage/python$LineTest__1_.coverage" NAME="LineTest (1) Coverage Results" MODIFIED="1645772705787" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/first/lineToLine" />
+    <SUITE FILE_PATH="coverage/python$numComputeTest.coverage" NAME="numComputeTest Coverage Results" MODIFIED="1646011136613" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/type/numCompute" />
+    <SUITE FILE_PATH="coverage/python$PrintTest.coverage" NAME="PrintTest Coverage Results" MODIFIED="1645769147908" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/first/base/printTest" />
+    <SUITE FILE_PATH="coverage/python$__init__.coverage" NAME="__init__ Coverage Results" MODIFIED="1645767209968" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/cpucode/main" />
+    <SUITE FILE_PATH="coverage/python$RstringTest.coverage" NAME="RstringTest Coverage Results" MODIFIED="1646013029331" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/type/Rstring" />
+    <SUITE FILE_PATH="coverage/python$reverseTest.coverage" NAME="reverseTest Coverage Results" MODIFIED="1646014799833" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/type/reverseList" />
+    <SUITE FILE_PATH="coverage/python$__init____1_.coverage" NAME="__init__ (1) Coverage Results" MODIFIED="1645767217912" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/first/com/cpucode/first/FirstMain" />
+    <SUITE FILE_PATH="coverage/python$numberTypeTest.coverage" NAME="numberTypeTest Coverage Results" MODIFIED="1646010357457" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/type/numberType" />
+  </component>
+</project>
