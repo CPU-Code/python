@@ -72,11 +72,3 @@ python 学习
 ---------------------------
 
 
-# [运算符](operation)
-
-- [x] [算术运算符](operation/computeOper/computeOperTest.py)
-
----------------------------
-
-
-
