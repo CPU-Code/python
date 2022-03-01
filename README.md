@@ -57,8 +57,16 @@ python 学习
 
 ---------------------------
 
+# [运算符](operation)
 
-# [运算符](compute)
+- [x] [算术运算符](operation/computeOper/computeOperTest.py)
+- [x] [比较运算符](operation/compareOper/compareOperTest.py)
+- [x] [赋值运算符](operation/assignOper/assignOperTest.py)
+- [x] [位运算符](operation/positionOper/positionOperTest.py)
+- [x] [逻辑运算符](operation/logicOper/logicOperTest.py)
+- [x] [成员运算符](operation/memberOper/memberOperTest.py)
+- [x] [身份运算符](operation/idOper/idOperTest.py)
+- [x] [运算符优先级](operation/firstOper/firstOperTest.py)
 
 
 ---------------------------
